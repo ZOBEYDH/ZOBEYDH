@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZOBEYDH
+- 👋 Hi, I’m @Zubeydh
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on  ai project
